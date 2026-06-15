@@ -84,7 +84,7 @@ PDF_PATH          = "./data_docs/hr_policy_manual.pdf"
 CHROMA_PERSIST    = "./data_docs/chroma_hr_policy"
 ARTIFACT_PRIMARY  = "hr_dss_artifacts.pkl"   # full PART-2 bundle (preferred)
 ARTIFACT_FALLBACK = "hr_model.pkl"           # Streamlit-only bundle
-LLM_MODEL         = "llama3-70b-8192"
+LLM_MODEL         = "llama-3.3-70b-versatile"
 EMBED_MODEL       = "all-MiniLM-L6-v2"
 RETRIEVER_K       = 6
 
